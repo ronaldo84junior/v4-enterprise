@@ -1,0 +1,6 @@
+node_modules/
+.env
+v4.db
+v4.db-shm
+v4.db-wal
+uploads/
